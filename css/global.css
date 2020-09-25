@@ -170,6 +170,8 @@ input.submit {
 
 
 #albums article {
+    width: 100%;
+    height: auto;
     font-size: 13px;
     color: #89949b;
     margin: 10px 0;
